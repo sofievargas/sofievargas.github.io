@@ -13,9 +13,11 @@ export default {
         amarante : ['"Pixelify Sans"','sans-serif'],
       },
       colors:{
-        customBrown: "#362426",
+        customBrown: "#503d3f",
+        customLightBlue: "#94b7e2",
         customDarkGreen: "#70a288",
         customPink: "#f9b3d1",
+        customDarkBlue: "#639bd9",
         customYellow: "#ffeccc",
         customLightGreen: "#c8d6af",
       },
